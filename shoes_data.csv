@@ -1,0 +1,253 @@
+,brand_name,shoe_type,original_price,sale_price,shoe_weight
+0,adidas Performance,"['RUNFALCON 2.0 TR ', ' Laufschuh Neutral ']","59,95",,310 
+1,Mammut,"['HUECO  ', ' Hikingschuh ']","150,00",,unknown
+2,Mammut,"['ALVRA ', ' Hikingschuh ']","160,00",,unknown
+3,adidas Performance,"['ULTRABOOST 20 PRIMEBLUE PRIMEKNIT RUNNING SHOES ', ' Laufschuh Neutral ']","107,95","179,95",328 
+4,Nike Performance,"['REVOLUTION 5 ', ' Laufschuh Neutral ']","54,95",,299 
+5,Nike Performance,"['REVOLUTION 5 ', ' Laufschuh Neutral ']","49,90","55,00",304 
+6,Nike Performance,"['LEGEND ESSENTIAL ', ' Trainings']","44,95","59,95",unknown
+7,Nike Performance,"['REVOLUTION 5 ', ' Laufschuh Neutral ']","48,05","54,95",296 
+8,New Balance,"['FRESH FOAM ARISHI ', ' Laufschuh Neutral ']","67,95","84,95",261 
+9,Brütting,"['Trekkinghalbschuh ', ' black']","59,95","74,95",unknown
+10,adidas Performance,"['ALPHATORSION BOOST SHOES ', ' Laufschuh Neutral ']","69,95","139,95",unknown
+11,adidas Performance,"['TERREX SWIFT R2 MID GTX GORETEX HIKING SHOES ', ' Hikingschuh ']","159,95",,unknown
+12,adidas Performance,"['RUNFALCON ', ' Laufschuh Neutral ']","49,95",,244 
+13,Lowa,"['RENEGADE GTX MID ', ' Hikingschuh ']","193,99","199,99",unknown
+14,ASICS,"['GT 2000 9 ', ' Laufschuh Stabilität ']","118,99","139,99",unknown
+15,Kappa,"['SHAWS UNISEX ', ' Trainings']","29,95","39,95",unknown
+16,Puma,"['STAR ', ' Laufschuh Neutral ']","47,95","69,95",unknown
+17,Mammut,"['HUECO LOW MEN ', ' Alpin']","130,00",,unknown
+18,Lowa,"['TAURUS II GTX MID ', ' Hikingschuh ']","129,95",,unknown
+19,LICO,"['LICO ', ' Alpin']","49,95",,unknown
+20,adidas Performance,"['SOLAR BOOST 19 ', ' Laufschuh Neutral ']","79,95","159,95",298 
+21,Brütting,"['Trekkingboot ', ' black']","69,95",,unknown
+22,Brütting,"['CHIMNEY ', ' Trekkingboot ']","55,73","79,95",unknown
+23,adidas Performance,"['SAMBA LEATHER FOOTBALL SHOES INDOOR ', ' Sneaker low ']","49,99","74,99",unknown
+24,Brütting,"['MOUNT SHASTA  ', ' Hikingschuh ']","74,95","79,95",unknown
+25,Nike Sportswear,"['HERREN SNEAKER ""AIR MAX EXCEE"" ', ' Sneaker low ']","86,86","109,95",unknown
+26,adidas Performance,"['RUNFALCON ', ' Laufschuh Neutral ']","49,95",,262 
+27,adidas Performance,"['ULTRABOOST 20 PRIMEKNIT RUNNING SHOES ', ' Laufschuh Neutral ']","119,99","179,99",332 
+28,adidas Performance,"['TERREX AGRAVIC GORE', 'TEX RUNNING ']","89,95",,370 
+29,Jack Wolfskin,"['VOJO 3 TEXAPORE LOW ', ' Hikingschuh ']","81,96","99,95",unknown
+30,adidas Performance,"['SUPERNOVA ', ' Laufschuh Neutral ']","59,95","99,95",unknown
+31,Nike Sportswear,"['HERREN SNEAKER ""AIR MAX EXCEE"" ', ' Sneaker low ']","86,86",,unknown
+32,ASICS,"['GT', '2000 8 ']","110,00","139,99",unknown
+33,Kappa,"['SHAWS UNISEX ', ' Trainings']","27,95","39,95",unknown
+34,adidas Performance,"['ADIZERO CLUB ', ' Multicourt Tennisschuh ']","69,95",,unknown
+35,Kappa,"['LEEBROOK UNISEX ', ' Trainings']","25,95","39,95",unknown
+36,Nike Performance,"['DOWNSHIFTER 10 ', ' Laufschuh Neutral ']","39,90","60,00",263 
+37,adidas Performance,"['SOLAR BOOST 19 ', ' Laufschuh Neutral ']","79,95","159,95",290 
+38,New Balance,"['680 V6 ', ' Laufschuh Neutral ']","67,50","90,00",unknown
+39,Lowa,"['RENEGADE GTX MID ', ' Hikingschuh ']","180,00",,unknown
+40,adidas Performance,"['RUNFALCON ', ' Laufschuh Neutral ']","37,45","49,95",269 
+41,The North Face,"['M ACTIVIST MID FUTURELIGHT ', ' Hikingschuh ']","121,95","155,00",unknown
+42,adidas Originals,"['Sneaker low ', ' mehrfarbig']","48,29","64,95",unknown
+43,adidas Performance,"['SOLAR GLIDE BOOST RUNNING SHOES ', ' Laufschuh Neutral ']","97,95","139,95",394 
+44,ASICS,"['GEL CUMULUS 22 ', ' Laufschuh Neutral ']","111,99","139,99",270 
+45,adidas Performance,"['ADILETTE ', ' Badesandale ']","23,74","24,99",unknown
+46,adidas Performance,"['DURAMO 9 ', ' Laufschuh Neutral ']","43,95","54,95",268 
+47,CMP,"['Hikingschuh ', ' wood']","79,80","89,95",unknown
+48,ASICS,"['JOLT 2 ', ' Laufschuh Neutral ']","39,95","49,95",286 
+49,adidas Performance,"['SOLAR DRIVE 19 ', ' Laufschuh Neutral ']","65,95","119,95",304 
+50,Nike Performance,"['DOWNSHIFTER 10 ', ' Laufschuh Neutral ']","39,90","60,00",261 
+51,adidas Performance,"['TERREX SWIFT R2 GTX ', ' Hikingschuh ']","125,99","139,99",unknown
+52,Nike Performance,"['REVOLUTION 5 ', ' Laufschuh Neutral ']","49,90","55,00",298 
+53,adidas Performance,"['HOOPS 2.0 MID ', ' Sneaker high ']","44,83","64,95",unknown
+54,ASICS,"['GEL NIMBUS 22 ', ' Laufschuh Neutral ']","129,90","180,00",318 
+55,adidas Performance,"['X GHOSTED.4 FOOTBALL SHOES INDOOR ', ' Fußballschuh Halle ']","34,95","49,95",unknown
+56,Nike Performance,"['KD TREY 5 VIII  ', ' Basketballschuh ']","59,95","99,95",unknown
+57,Brütting,"['Hikingschuh ', ' blue']","76,00","89,00",unknown
+58,adidas Performance,"['ADILETTE ', ' Badesandale ']","22,99","24,99",unknown
+59,Puma,"['ESCALATE ', ' Laufschuh Trail ']","38,45","54,95",260 
+60,Nike Performance,"['REVOLUTION 5 ', ' Laufschuh Neutral ']","54,95",,302 
+61,adidas Performance,"['ULTRABOOST 20 PRIMEKNIT RUNNING SHOES ', ' Laufschuh Neutral ']","119,90","179,95",342 
+62,adidas Performance,"['RUNFALCON 2.0 TR ', ' Laufschuh Neutral ']","59,95",,unknown
+63,adidas Performance,"['ULTRABOOST PB DNA SPORTS RUNNING SHOES ', ' Laufschuh Neutral ']","107,95","179,95",282 
+64,adidas Performance,"['RUNFALCON ', ' Laufschuh Neutral ']","45,08","49,95",302 
+65,Nike Performance,"['RUNALLDAY 2 ', ' Laufschuh Neutral ']","45,45","64,95",275 
+66,Champion,"['LOW CUT SHOE CHICAGO ', ' Trainings']","47,95","59,95",unknown
+67,Salomon,"['XA PRO 3D GTX ', ' Laufschuh Trail ']","135,95","159,95",358 
+68,adidas Performance,"['ULTRABOOST PRIMEKNIT RUNNING SHOES ', ' Laufschuh Neutral ']","125,95","179,95",352 
+69,Nike Performance,"['PRECISION 4 ', ' Basketballschuh ']","52,45","69,95",unknown
+70,Nike Performance,"['VARSITY COMPETE TR 3 ', ' Trainings']","48,95","69,95",unknown
+71,Nike Sportswear,"['HERREN SNEAKER ""AIR MAX EXCEE"" ', ' Sneaker low ']","79,99","109,99",unknown
+72,ASICS,"['DYNABLAST ', ' Laufschuh Neutral ']","71,95","119,95",261 
+73,Skechers,"['Laufschuh Neutral ', ' core black']","49,04","54,95",unknown
+74,ASICS,"['SCOUT ', ' Laufschuh Trail ']","44,95","59,95",283 
+75,Lowa,"['DUBLIN III GTX ', ' Snowboot/Winterstiefel ']","124,86","150,00",unknown
+76,New Balance,"['FRESH FOAM CRAG ', ' Laufschuh Trail ']","75,95","94,95",292 
+77,New Balance,"['Laufschuh Neutral ', ' grey']","53,95","89,95",272 
+78,adidas Performance,"['ENERGYFALCON SHOES ', ' Laufschuh Neutral ']","41,95","64,95",unknown
+79,adidas Performance,"['RUNFALCON ', ' Laufschuh Neutral ']","34,95","49,95",268 
+80,New Balance,"['ML574D ', ' Sneaker low ']","56,05","99,95",319 
+81,Nike Performance,"['REVOLUTION 5 ', ' Laufschuh Neutral ']","43,95","54,95",282 
+82,Salomon,"['OUTLINE MID GTX ', ' Hikingschuh ']","139,95",,unknown
+83,KangaROOS,"['K', 'BLUERUN 701    ']","35,99","39,99",unknown
+84,Kappa,"['SHAWS UNISEX ', ' Trainings']","29,95","39,95",unknown
+85,Champion,"['SHOE C.J. ', ' Sneaker low ']","27,95","39,95",unknown
+86,ASICS,"['GEL CUMULUS 22"" ', ' Laufschuh Wettkampf ']","118,99","139,99",unknown
+87,Nike Performance,"['FLEX EXPERIENCE RUN 9 ', ' Laufschuh Wettkampf ']","51,95","64,95",unknown
+88,Puma,"['LEADER ', ' Trainings']","35,95","59,95",unknown
+89,Salomon,"['UTILITY WINTER WP ', ' Hikingschuh ']","135,95","159,95",unknown
+90,ASICS,"['GEL', 'DEDICATE 6 INDOOR ']","44,90","64,90",unknown
+91,Salomon,"['XA PRO 3D GTX ', ' Laufschuh Trail ']","159,95",,342 
+92,ASICS,"['GEL', 'SONOMA 5 G']","84,99","99,99",339 
+93,ASICS,"['GT 2000 9 ', ' Laufschuh Stabilität ']","139,95",,282 
+94,adidas Performance,"['TERREX SWIFT R2 HIKING SHOES ', ' Hikingschuh ']","89,95","119,95",unknown
+95,adidas Performance,"['TERREX AGRAVIC ', ' Laufschuh Trail ']","79,95",,324 
+96,Reebok,"['BACK TO TRAIL ', ' Hikingschuh ']","67,95",,unknown
+97,New Balance,"['FRESH FOAM ROAV ', ' Laufschuh Neutral ']","49,45","89,95",284 
+98,adidas Performance,"['HOOPS 2.0 MID ', ' Sneaker high ']","51,90","64,95",unknown
+99,ASICS,"['JOLT 2 ', ' Laufschuh Neutral ']","49,95",,283 
+100,Nike Performance,"['JUNIPER ', ' Laufschuh Trail ']","79,95",,258 
+101,adidas Performance,"['SOLAR GLIDE BOOST SHOES ', ' Laufschuh Neutral ']","97,95","139,95",311 
+102,adidas Performance,"['TERREX EASTRAIL ', ' Hikingschuh ']","79,95",,unknown
+103,Puma,"['VT TECH ', ' Trainings']","44,95","59,99",unknown
+104,adidas Performance,"['PREDATOR 20.3 FOOTBALL SHOES INDOOR ', ' Fußballschuh Halle ']","44,99","89,99",unknown
+105,Mammut,"['MERCURY III MID GTX MEN ', ' Hikingschuh ']","169,90","179,90",unknown
+106,Nike Performance,"['DOWNSHIFTER 10 ', ' Laufschuh Neutral ']","44,90","60,00",260 
+107,Nike Performance,"['REVOLUTION 5 ', ' Laufschuh Neutral ']","54,95",,276 
+108,Nike Performance,"['JUNIPER ', ' Laufschuh Trail ']","79,95",,270 
+109,Salomon,"['XA PRO 3D GTX ', ' Laufschuh Trail ']","143,99","159,99",368 
+110,Jack Wolfskin,"['Hikingschuh ', ' dark grey/lime']","132,56","169,95",unknown
+111,adidas Performance,"['ULTRABOOST 20 PRIMEKNIT RUNNING SHOES ', ' Laufschuh Neutral ']","129,90","179,95",326 
+112,CMP,"['RIGEL MID TREKKING SHOES WP ', ' Hikingschuh ']","89,90",,unknown
+113,ASICS,"['GEL BRAID ', ' Laufschuh Neutral ']","50,00","55,00",278 
+114,Champion,"['HIGH CUT SHOE NEW UPSTATE ', ' Hikingschuh ']","44,95","59,95",unknown
+115,Nike Performance,"['AIR ZOOM PEGASUS 37 ', ' Laufschuh Neutral ']","101,95","119,95",292 
+116,New Balance,"['DRIFT ', ' Laufschuh Neutral ']","44,95","59,95",unknown
+117,adidas Performance,"['DURAMO ', ' Laufschuh Neutral ']","52,20","54,95",222 
+118,Nike Performance,"['AIR ZOOM PEGASUS 37 ', ' Laufschuh Neutral ']","89,99","119,99",291 
+119,adidas Performance,"['TERREX AX3 GTX ', ' Hikingschuh ']","115,95",,unknown
+120,Nike Performance,"['FREE RN 5.0 ', ' Laufschuh Natural running ']","75,89","109,99",209 
+121,Nike Performance,"['MERCURIAL 7 ACADEMY IC ', ' Fußballschuh Halle ']","44,99","89,99",unknown
+122,Puma,"['FLYER RUNNER UNISEX ', ' Laufschuh Neutral ']","34,95","49,95",212 
+123,McKinley,"['DISCOVER MID AQX M ', ' Hikingschuh ']","75,89","109,99",unknown
+124,adidas Performance,"['ULTRABOOST 20 PRIMEBLUE PRIMEKNIT RUNNING SHOES ', ' Laufschuh Neutral ']","143,95","179,95",318 
+125,ASICS,"['GEL CONTEND 7 ', ' Laufschuh Neutral ']","64,95",,266 
+126,adidas Performance,"['TERREX AGRAVIC FLOW GORE', 'TEX TRAIL RUNNING SHOES ']","133,46","149,95",unknown
+127,ASICS,"['GEL', 'MISSION 3 ']","55,00",,unknown
+128,Nike Performance,"['Laufschuh Neutral ', ' black/white']","64,95",,274 
+129,ASICS,"['GEL CUMULUS 22 ', ' Laufschuh Neutral ']","139,95",,265 
+130,adidas Performance,"['FLUIDSTREET ', ' Trainings']","44,96","59,95",unknown
+131,adidas Performance,"['RUNFALCON ', ' Laufschuh Neutral ']","44,49","49,99",unknown
+132,adidas Performance,"['GALAXY  ', ' Laufschuh Neutral ']","49,95",,264 
+133,Puma,"['LQDCELL METHOD ', ' Trainings']","44,99","79,99",unknown
+134,ASICS,"['GEL CUMULUS ', ' Laufschuh Neutral ']","119,99","149,99",unknown
+135,Nike Performance,"['VARSITY COMPETE TR 3 ', ' Trainings']","55,95","69,95",unknown
+136,Nike Performance,"['FLEX EXPERIENCE RUN 9 ', ' Laufschuh Wettkampf ']","51,95","64,95",222 
+137,Brütting,"['Alpin', '/Bergstiefel ']","55,73","79,95",unknown
+138,Nike Performance,"['FLEX EXPERIENCE RUN 9 ', ' Laufschuh Wettkampf ']","48,45","64,95",216 
+139,Nike Performance,"['DOWNSHIFTER 10 ', ' Laufschuh Neutral ']","44,95","59,95",267 
+140,adidas Performance,"['RUNFALCON ', ' Laufschuh Neutral ']","44,99","49,99",274 
+141,New Balance,"['FRESH FOAM CRAG ', ' Laufschuh Trail ']","71,25","95,00",unknown
+142,Under Armour,"['PHANTOM ', ' Laufschuh Neutral ']","140,00",,unknown
+143,ASICS,"['GEL NIMBUS 22 ', ' Laufschuh Neutral ']","143,99","179,99",328 
+144,Nike Performance,"['LEGEND ESSENTIAL ', ' Trainings']","47,95","59,95",unknown
+145,adidas Performance,"['TERREX FREE PARLEY ', ' Hikingschuh ']","159,95","199,95",unknown
+146,Dolomite,"['Hikingschuh ', ' steel blue']","132,46","179,00",unknown
+147,Kappa,"['FOLLOW OC ', ' Trainings']","29,95",,unknown
+148,Lowa,"['Hikingschuh ', ' olive']","179,99",,1.110 
+149,Lowa,"['GORGON GTX ', ' Hikingschuh ']","125,66","149,95",unknown
+150,adidas Performance,"['TERREX SWIFT R2 GORE', 'TEX ']","118,95","139,95",unknown
+151,adidas Performance,"['HOOPS 2.0 MID ', ' Sneaker high ']","47,97","64,95",unknown
+152,adidas Performance,"['ULTRABOOST PRIMEKNIT RUNNING SHOES ', ' Laufschuh Neutral ']","125,95","179,95",351 
+153,Under Armour,"['CHARGED IMPULSE KNIT ', ' Laufschuh Stabilität ']","55,97","80,00",unknown
+154,Nike Performance,"['REVOLUTION 5 FLYEASE ', ' Laufschuh Neutral ']","38,45","54,95",318 
+155,Brütting,"['Hikingschuh ', ' grau']","109,95",,unknown
+156,Lowa,"['TOLEDO GTX LO ', ' Hikingschuh ']","84,99","99,99",unknown
+157,Nike Performance,"['REVOLUTION 5 ', ' Laufschuh Neutral ']","49,90","55,00",306 
+158,ASICS,"['GT 2000 9 ', ' Laufschuh Stabilität ']","139,95",,265 
+159,adidas Performance,"['HOOPS 2.0 MID ', ' Sneaker high ']","50,66","64,95",unknown
+160,Lowa,"['SIRKOS EVO GTX ', ' Hikingschuh ']","139,95",,unknown
+161,Lytos,"['Hikingschuh ', ' braun']","89,95",,unknown
+162,Lowa,"['RENEGADE GTX MID ', ' Hikingschuh ']","169,99","199,99",unknown
+163,adidas Performance,"['TERREX SWIFT R2 HIKING SHOES ', ' Hikingschuh ']","119,94","119,95",unknown
+164,adidas Performance,"['SUPERNOVA ', ' Laufschuh Neutral ']","54,95","99,95",302 
+165,adidas Performance,"['ADILETTE AQUA SWIM ', ' Badesandale ']","19,95",,unknown
+166,adidas Performance,"['ULTRA BOOST ', ' Laufschuh Stabilität ']","129,90","179,95",unknown
+167,Nike Performance,"['METCON 6 UNISEX ', ' Trainings']","89,69","129,99",unknown
+168,Nike Performance,"['REACT INFINITY RUN FLYKNIT ', ' Trainings']","110,39","159,99",unknown
+169,New Balance,"['ROAV ', ' Laufschuh Neutral ']","53,95","89,95",296 
+170,Puma,"['INTERFLEX RUNNER UNISEX ', ' Trainings']","34,95","49,95",unknown
+171,Champion,"['CLEARWATER ', ' Badesandale ']","17,95","19,95",unknown
+172,Nike Performance,"['REVOLUTION 5 ', ' Laufschuh Neutral ']","46,65","54,95",unknown
+173,Quiksilver,"['BOGAN ', ' Snowboot/Winterstiefel ']","59,99","99,99",unknown
+174,CMP,"['RIGEL LOW TREKKING SHOES WP ', ' Hikingschuh ']","68,95","79,95",unknown
+175,Lacoste,"['Sneaker low ', ' blk/off wht']","77,00","110,00",unknown
+176,ASICS,"['GT', '1000 9 ']","99,99","119,99",275 
+177,Salomon,"['SPEEDCROSS 5 GTX ', ' Laufschuh Trail ']","159,95",,340 
+178,Kappa,"['BRIGHT LIGHT ', ' Trekkingboot ']","31,95","39,95",unknown
+179,Nike Performance,"['AIR MAX IMPACT ', ' Basketballschuh ']","58,45","89,95",unknown
+180,Nike Performance,"['Laufschuh Neutral ', ' grau']","96,59","139,99",unknown
+181,ASICS,"['GEL', 'ODYSSEY ']","79,99","99,99",312 
+182,Mammut,"['DUCAN MID GTX ', ' Hikingschuh ']","119,99",,unknown
+183,LICO,"['Hikingschuh ', ' grau']","59,95",,unknown
+184,Salomon,"['SUPERCROSS BLAST GTX ', ' Laufschuh Trail ']","119,99","129,99",317 
+185,Reebok,"['RIDGERIDER 6.0 ', ' Laufschuh Trail ']","47,95",,321 
+186,Quiksilver,"['MISSION BOOT ', ' Snowboot/Winterstiefel ']","79,99","99,99",unknown
+187,Nike Performance,"['JUNIPER ', ' Laufschuh Trail ']","79,95",,276 
+188,adidas Performance,"['ULTRABOOST DNA PRIMEBLUE PRIMEKNIT RUNNING ', ' Sneaker low ']","154,95",,unknown
+189,Reebok,"['WORK N CUSHION 4.0 ', ' Walkingschuh ']","47,95",,316 
+190,Lacoste Sport,"['Trainings', '/Fitnessschuh ']","84,00","120,00",unknown
+191,Nike Performance,"['AIR ZOOM PEGASUS 37 ', ' Laufschuh Neutral ']","119,95",,289 
+192,Hummel,"['AERO TEAM ', ' Handballschuh ']","38,95","59,95",unknown
+193,Saucony,"['RIDE 13 ', ' Laufschuh Neutral ']","111,95","139,95",292 
+194,adidas Performance,"['SUPERNOVA ', ' Laufschuh Neutral ']","54,95","99,95",360 
+195,adidas Performance,"['ADILETTE AQUA SWIM ', ' Badesandale ']","17,99","19,99",unknown
+196,New Balance,"['SHANDO ', ' Laufschuh Trail ']","72,00","90,00",unknown
+197,Nike Performance,"['COURT AIR MAX VAPOR WING MS ', ' Multicourt Tennisschuh ']","52,45","69,95",unknown
+198,Lowa,"['BOSCO GTX ', ' Hikingschuh ']","160,00",,unknown
+199,KangaROOS,"['BLUERUN ', ' Sneaker low ']","39,95",,unknown
+200,adidas Performance,"['TERREX FREE HIKER PARLEY BOOST ', ' Hikingschuh ']","170,00","199,95",unknown
+201,adidas Performance,"['FLUIDSTREET ', ' Trainings']","44,95","59,95",unknown
+202,Nike Performance,"['REVOLUTION 5 ', ' Laufschuh Neutral ']","43,95","54,95",272 
+203,adidas Performance,"['ASWEETRAIN ', ' Trainings']","64,95",,unknown
+204,Merrell,"['VAPOR GLOVE 4 ', ' Laufschuh Natural running ']","69,95","99,95",162 
+205,Nike Performance,"['LEGEND ESSENTIAL 2 ', ' Trainings']","59,95",,unknown
+206,New Balance,"['ML574D ', ' Sneaker low ']","55,92","99,95",unknown
+207,Nike Performance,"['WILDHORSE 6 ', ' Laufschuh Trail ']","119,95",,289 
+208,adidas Performance,"['FITBOUNCE VERSATILITY BOUNCE TRAINING SHOES ', ' Trainings']","55,95","79,95",unknown
+209,ASICS,"['PATRIOT 12 ', ' Laufschuh Neutral ']","59,95",,253 
+210,Nike Performance,"['AIR ZOOM PEGASUS 37 ', ' Laufschuh Neutral ']","119,95",,266 
+211,Nike Performance,"['MERCURIAL 7 ACADEMY SG', 'PRO AC ']","44,99","94,99",unknown
+212,adidas Performance,"['TERREX EASTRAIL GORE', 'TEX ']","94,80","99,99",unknown
+213,Nike Performance,"['AIR ZOOM PEGASUS ', ' Laufschuh Stabilität ']","89,95","119,95",283 
+214,adidas Performance,"['SOLAR GLIDE BOOST SHOES ', ' Laufschuh Neutral ']","97,95","139,95",309 
+215,Nike Performance,"['REAX 8  ', ' Trainings']","80,70","84,95",unknown
+216,Puma,"['SOFTRIDE RIFT ', ' Laufschuh Neutral ']","41,95","64,95",270 
+217,adidas Performance,"['ULTRABOOST 20 PRIMEKNIT RUNNING SHOES ', ' Laufschuh Neutral ']","179,95",,334 
+218,Nike Performance,"['QUEST 3 ', ' Laufschuh Neutral ']","73,89","74,99",252 
+219,adidas Performance,"['DURAMO ', ' Laufschuh Neutral ']","44,90","54,95",256 
+220,Under Armour,"['CHARGED PURSUIT 2 ', ' Laufschuh Neutral ']","53,95","59,95",278 
+221,adidas Performance,"['Sneaker low ', ' schwarz']","59,95",,unknown
+222,Brütting,"['Hikingschuh ', ' grau']","99,90",,unknown
+223,Jordan,"['ONE TAKE II ', ' Basketballschuh ']","99,95",,unknown
+224,adidas Performance,"['PREDATOR 20.3 FOOTBALL SHOES INDOOR ', ' Fußballschuh Halle ']","59,95","99,95",unknown
+225,Nike Performance,"['RUNALLDAY 2 ', ' Laufschuh Neutral ']","45,45","64,95",277 
+226,Nike Performance,"['DOWNSHIFTER 10 ', ' Laufschuh Neutral ']","39,90","60,00",259 
+227,ASICS,"['GEL', 'SILEO 2 ']","69,95",,306 
+228,Kappa,"['MONTEBA ', ' Trainings']","39,95",,unknown
+229,Tommy Hilfiger,"['SPORT 2 ', ' Trainings']","89,95",,unknown
+230,Jordan,"['MARS 270  ', ' Basketballschuh ']","96,95","149,95",unknown
+231,Salomon,"['SPEEDCROSS 5 ', ' Laufschuh Trail ']","129,95",,311 
+232,adidas Performance,"['ADILETTE AQUA SWIM ', ' Badesandale ']","15,96","19,95",unknown
+233,Under Armour,"['CHARGED PURSUIT 2 ', ' Laufschuh Neutral ']","41,95","59,95",285 
+234,Nike Performance,"['RENEW RETALIATION TR 2 ', ' Trainings']","44,99","74,99",unknown
+235,adidas Performance,"['DURAMO ', ' Laufschuh Neutral ']","52,20","54,95",unknown
+236,Under Armour,"['HOVR SUMMIT ', ' Laufschuh Neutral ']","84,97","130,00",317 
+237,New Balance,"['FRESH FOAM TEMPO ', ' Laufschuh Neutral ']","83,95","139,95",246 
+238,adidas Performance,"['SPEZIAL BOOST ', ' Handballschuh ']","74,99","119,95",unknown
+239,Champion,"['MID CUT SHOE REBOUND VINTAGE ', ' Basketballschuh ']","31,95","39,95",unknown
+240,New Balance,"['ROAV ', ' Laufschuh Neutral ']","53,95","89,95",285 
+241,Puma,"['HYBRID ', ' Laufschuh Neutral ']","49,95","99,95",unknown
+242,Reebok,"['CLUB C ', ' Sneaker low ']","60,20","99,95",unknown
+243,Nike Performance,"['LEGEND ESSENTIAL ', ' Trainings']","59,95",,unknown
+244,adidas Performance,"['ALPHATORSION ', ' Laufschuh Stabilität ']","64,95","99,95",291 
+245,adidas Performance,"['TERREX SWIFT R2 HIKING SHOES ', ' Hikingschuh ']","89,95","119,95",unknown
+246,Nike Performance,"['AIR ZOOM PEGASUS 37 AS UNISEX ', ' Laufschuh Neutral ']","119,95",,226 
+247,adidas Performance,"['LIGRA 6 SHOES ', ' Volleyballschuh ']","36,60","54,99",unknown
+248,Salomon,"['XA PRO 3D V8 ', ' Hikingschuh ']","129,95",,unknown
+249,Vibram Fivefingers,"['V', 'TRAIL 2.0 ']","111,95","139,95",123 
+250,Nike Performance,"['REVOLUTION 5 ', ' Laufschuh Neutral ']","54,95",,310 
+251,Salomon,"['OUTLINE GTX ', ' Hikingschuh ']","92,95","129,99",unknown
